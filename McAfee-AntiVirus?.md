@@ -7,7 +7,7 @@
 https://docs.google.com/document/d/1lsfPdQwsRPyWe74U6kB_ca3As02XeR4o7CFkpN_4q6Y/edit?tab=t.0#heading=h.tin35chbc89x
 #
 
-#### Before I started my investigation, I made sure to check that my VM is on a 'host-only' mode so that in the event there's a malicious payload from the link, it will be isolated. Doing this will prevent it from accessing my host network and further minimizing risk. 
+#### Before I started my investigation, I made sure to check that my Virtual Machine is on a 'host-only' mode so that in the event there's a malicious payload from the link, it will be isolated. Doing this will prevent it from accessing my host network and further minimizing risk. 
 
 ![1 01](https://github.com/user-attachments/assets/45503985-2dec-4add-a726-affc3a383d0e)
 #
@@ -24,7 +24,7 @@ https://docs.google.com/document/d/1lsfPdQwsRPyWe74U6kB_ca3As02XeR4o7CFkpN_4q6Y/
 ![1 05](https://github.com/user-attachments/assets/c8d942f4-ae3c-4c39-a8ab-290e939b4f3d)
 #
 
-3. Furthermore, I examined the raw data to find more information, identifying both the attacker's IP address and email address. I checked the email's DKIM (DomainKeys Identified Mail), SPF (Sender Policy Framework), and DMARC (Domain-based Message Authentication Reporting and Conformance) and noticed that they are all labeled as unknown. Together, DKIM, SPF, and DMARC function like a background check on email senders, to make sure they really are who they say they are. The absence of these verifications is another major red flag. I also decoded the base64 code from the raw data, using CyberChef but could not find a data of relevance. 
+3. Furthermore, I examined the raw data to find more information, identifying both the attacker's IP address and email address. I checked the email's DKIM (DomainKeys Identified Mail), SPF (Sender Policy Framework), and DMARC (Domain-based Message Authentication Reporting and Conformance) and noticed that they are all labeled as unknown. Together, DKIM, SPF, and DMARC function like a background check on email senders, to make sure they really are who they say they are. The absence of these verifications is another major red flag. I also decoded the base64 code from the raw data, using CyberChef but could not find any data of relevance. 
 
 ![1 06](https://github.com/user-attachments/assets/1a29c029-bf43-4684-81cb-debb1a878f75)
 
@@ -52,7 +52,7 @@ https://docs.google.com/document/d/1lsfPdQwsRPyWe74U6kB_ca3As02XeR4o7CFkpN_4q6Y/
 ![4 02](https://github.com/user-attachments/assets/803c3f40-6a6e-4320-9025-82800b92b4f2)
 #
 
-7. After I entered all my information and social security, I closed out of the window, quarantined the malicious email, and reverted my VM back to its original state.
+7. After I entered all my information and social security number, I closed out of the window, quarantined the malicious email, and reverted my VM back to its original state.
 
 ![4 03](https://github.com/user-attachments/assets/2ffe4cf0-4b81-4768-af08-e1c6ff1bbedf)
 #
