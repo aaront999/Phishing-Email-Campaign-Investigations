@@ -1,6 +1,6 @@
 ## Phishing Email Investigations
 
-#### Phishing attacks have been prevalent since the dawn of the Internet and their attack vectors has only been evolving and improving ever since. For example, Vishing (Voice Phishing: a type of cyberattack that involves using phone calls or voice messages to trick people into sharing sensitive information) integrated with AI has been really popular these past few years. Phishing emails rely on social engineering and capatilize on human error seeking sensitive information or some form of monetary gain. Here are the most common signs to look for:
+#### Phishing attacks have been prevalent since the mid 1990's, and their attack vectors have only evolved and improved over time. For example, Vishing (Voice Phishing) and Smishing (SMS Phishing) has gained popularity in recent years, utilizing phone calls, texts, links, or voice messages to trick individuals into sharing sensitive information, often with the integration of AI. Phishing emails rely on social engineering and capitalize on human error to seek sensitive information or some form of monetary gain. Here are the most common signs to look for:
     - Domain: The email may use a different domain than the legitimate business. 
     - Links: The email may include links that don't match the domain. 
     - Attachments: The email may include unsolicited attachments. 
