@@ -1,1 +1,23 @@
-# Phishing-Email-Investigations
+## Phishing Email Investigations
+
+#### Phishing attacks have been prevalent since the dawn of the Internet and their attack vectors has only been evolving and improving ever since. For example, Vishing (Voice Phishing: a type of cyberattack that involves using phone calls or voice messages to trick people into sharing sensitive information) integrated with AI has been really popular these past few years. Phishing emails rely on social engineering and capatilize on human error seeking sensitive information or some form of monetary gain. Here are the most common signs to look for:
+    - Domain: The email may use a different domain than the legitimate business. 
+    - Links: The email may include links that don't match the domain. 
+    - Attachments: The email may include unsolicited attachments. 
+    - Spelling and grammar: The email may contain obvious spelling or grammatical errors. 
+    - Sender: The email may be from a first-time sender, an infrequent sender, or a sender marked as "External".
+#
+#### This repository will hold all of my write-ups on investigating Phishing emails that contain malicious links or attachments.
+    - Incident reports will be linked in their respective .md files.
+
+#### NOTE: Before these investigations, I downloaded VMware Workstation Pro as my primary virtual machine and Kali Linux as the disk image, so I can access the malicious emails -through the VM- safely.
+#
+#### Programs we will be using: 
+- VMware Workstation Pro: https://www.broadcom.com/
+  - You must create an account
+  - Click the drop down menu in the upper right corner and select "VMware Cloud Foundation"
+  - Search for VMware Workstation Pro
+  - Download for personal use on Windows or Linux
+- Kali Linux: https://www.kali.org/get-kali/#kali-virtual-machines
+  - For Microsoft Windows: After installing, add the Kali Linux downloaded file as an exclusion in Windows Security > Virus & Threat Protection > Manage Settings > Add or Remove Exclusions > Add Kali Linux.
+  - Extract all the files, and it can now be used on VMware as your disk image
