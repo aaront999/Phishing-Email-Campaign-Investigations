@@ -1,13 +1,13 @@
 # Phishing Email: McAfee Anti-Virus
 
-#### On October 17th, 2024, I received a suspicious email from a sender attempting to impersonate the computer security company McAfee. The email displayed several phishing characteristics, such as an unfamiliar sender domain and stressing urgency for the user to react and take action.
+#### - On October 17th, 2024, I received a suspicious email from a sender attempting to impersonate the computer security company McAfee. The email displayed several phishing characteristics, such as an unfamiliar sender domain and stressing urgency for the user to react and take action.
 
 ### <a href="https://docs.google.com/document/d/1lsfPdQwsRPyWe74U6kB_ca3As02XeR4o7CFkpN_4q6Y/edit?tab=t.0#heading=h.tin35chbc89x" target="_blank">Incident Report:</a>
 
 https://docs.google.com/document/d/1lsfPdQwsRPyWe74U6kB_ca3As02XeR4o7CFkpN_4q6Y/edit?tab=t.0#heading=h.tin35chbc89x
 #
 
-#### Before I started my investigation, I made sure to check that my Virtual Machine is on a 'host-only' mode so that in the event there's a malicious payload from the link, it will be isolated. Doing this will prevent it from accessing my host network and further minimizing risk. 
+#### - Before I started my investigation, I made sure to check that my Virtual Machine is on a 'host-only' mode so that in the event there's a malicious payload from the link, it will be isolated. Doing this will prevent it from accessing my host network and further minimizing risk. 
 
 ![1 01](https://github.com/user-attachments/assets/45503985-2dec-4add-a726-affc3a383d0e)
 #
@@ -54,7 +54,7 @@ https://docs.google.com/document/d/1lsfPdQwsRPyWe74U6kB_ca3As02XeR4o7CFkpN_4q6Y/
 
 7. After I entered all my information and social security number, I closed out of the window, quarantined the malicious email, and reverted my VM back to its original state.
 
-![4 03](https://github.com/user-attachments/assets/2ffe4cf0-4b81-4768-af08-e1c6ff1bbedf)
+![4 03](https://github.com/user-attachments/assets/3a9f853c-fc3a-4bf8-a0ac-a9a8ae4851aa)
 #
 
 # <a href="https://docs.google.com/document/d/1lsfPdQwsRPyWe74U6kB_ca3As02XeR4o7CFkpN_4q6Y/edit?tab=t.0#heading=h.tin35chbc89x" target="_blank">Incident Report</a>
