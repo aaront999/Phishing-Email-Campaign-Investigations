@@ -45,14 +45,15 @@ https://docs.google.com/document/d/1brqaiAT-QYt1p6rPJLJyaEAWnq4QfOq5Ow9qErMYgv4/
 ![Screenshot 2024-11-12 115121](https://github.com/user-attachments/assets/cff786e9-249a-4f4a-af87-4ac2fa5f0161)
 ![Screenshot 2024-11-12 115517](https://github.com/user-attachments/assets/dc2e26c4-21ce-4586-a557-e247a61f3bcc)
 ![Screenshot 2024-11-12 115606](https://github.com/user-attachments/assets/52f55d3f-b947-422a-b16c-e5071c347219)
+#
 
-6. Ultimately, when I clicked into several different products I realized they were just redirecting me multiple times to articles on how great the product is, given an obscene discount ranging from 50-80% off, and then to a spoofed website to "buy" the product but never actually redirected to Amazon to directly buy the product! 
+6. Ultimately, I realized when I clicked into several different products, they were just redirecting me multiple times to articles on how great the product is, given an obscene discount ranging from 50-80% off, and then to a spoofed website to "buy" the product but never actually sent me directly to Amazon to buy the product! 
  
 ![Screenshot 2024-11-12 131538](https://github.com/user-attachments/assets/19a066ad-a1d7-434d-8e19-7ec0e6a47d1a)
 ![Screenshot 2024-11-12 131721](https://github.com/user-attachments/assets/a4e1db51-6308-4670-b859-f8a09879fcfd)
 #
 
-7. After I bought all 10 products -which I have yet to receive any- I closed out all of the windows, quarantined the malicious email, and reverted my VM back to its original state.
+7. Finally, after I bought all 10 products -which I have yet to receive anything- I closed out all of the windows, quarantined the malicious email, and reverted my VM back to its original state.
 
 ![Screenshot 2024-11-12 131940](https://github.com/user-attachments/assets/6846f4af-d259-4f88-bc96-8b30135f14e8)
 #
