@@ -30,7 +30,7 @@ https://docs.google.com/document/d/1brqaiAT-QYt1p6rPJLJyaEAWnq4QfOq5Ow9qErMYgv4/
 ![Screenshot 2024-11-12 113154](https://github.com/user-attachments/assets/896439ee-ddad-4110-9919-3ac8e0399c8f)
 #
 
-3. I investigate the sender's IP Address on VirusTotal and confirm that is is flagged as malicious, originating from Ireland. This confirmation adds another layer of validation that the email is part of a broader malicious campaign.
+3. Furthermore, I investigate the sender's IP Address on VirusTotal and confirm that it is flagged as malicious, originating from Ireland. This confirmation adds another layer of validation that the email is part of a broader malicious campaign.
 
 ![deal watchdogs ip addr](https://github.com/user-attachments/assets/07f9c0dc-d174-4515-b488-a017a5e1e061)
 #
@@ -47,13 +47,13 @@ https://docs.google.com/document/d/1brqaiAT-QYt1p6rPJLJyaEAWnq4QfOq5Ow9qErMYgv4/
 ![Screenshot 2024-11-12 115606](https://github.com/user-attachments/assets/52f55d3f-b947-422a-b16c-e5071c347219)
 #
 
-6. Ultimately, I realized when I clicked into several different products, they were just redirecting me multiple times to articles on how great the product is, given an obscene discount ranging from 50-80% off, and then to a spoofed website to "buy" the product but never actually sent me directly to Amazon to buy the product! 
+6. Ultimately, I realized when clicking into several different products, the links would redirect me multiple times to different articles expressing how great the product is, given an obscene discount ranging from 50-80% off, and then finally to a spoofed website to "buy" the product but never actually sending me directly to Amazon to buy the product! 
  
 ![Screenshot 2024-11-12 131538](https://github.com/user-attachments/assets/19a066ad-a1d7-434d-8e19-7ec0e6a47d1a)
 ![Screenshot 2024-11-12 131721](https://github.com/user-attachments/assets/a4e1db51-6308-4670-b859-f8a09879fcfd)
 #
 
-7. Finally, after I bought all 10 products -which I have yet to receive anything- I closed out all of the windows, quarantined the malicious email, and reverted my VM back to its original state.
+7. To conclude my investigation, I bought all 10 products, closed out all Windows tabs, quarantined the malicious email, and reverted my VM back to its original state.
 
 ![Screenshot 2024-11-12 131940](https://github.com/user-attachments/assets/6846f4af-d259-4f88-bc96-8b30135f14e8)
 #
