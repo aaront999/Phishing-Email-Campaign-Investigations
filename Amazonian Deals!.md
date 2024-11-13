@@ -28,34 +28,36 @@
 ![Screenshot 2024-11-12 113053](https://github.com/user-attachments/assets/55382600-a5b7-490e-b4dc-a1ae44b98d91)
 #
 
-2.1. When I investigate further into the raw data, I noticed 2 strange things. The first being that there are LinkedIn headers such as LinkedIn-Class, LinkedIn-Template, or LinkedIn-ID to look like a LinkedIn alert or notification but the email is claiming to contain Amazon deals. The two do not correlate at all. The second suspicious item(s) are the 6 lengthy URL re-direct links to an unknown domain that does not represent 'Deal Watchdogs' or LinkedIn. The structure of these headers and URLs is typical of phishing attempts, where attackers spoof a well known/popular site to present itself as legitimate and use complex, randomized domains to evade detection.  
+2.1. When I investigate further into the raw data, I noticed 2 strange things. The first being that there are LinkedIn headers such as LinkedIn-Class, LinkedIn-Template, or LinkedIn-ID to look like a LinkedIn alert or notification but the email is claiming to contain Amazon deals. The two do not correlate at all. The second suspicious item(s) are the 6 lengthy URL redirect links to an unknown domain that does not represent 'Deal Watchdogs' or LinkedIn. The structure of these headers and URLs is typical of phishing attempts, where attackers spoof a well known/popular site to present itself as legitimate and use complex, randomized domains to evade detection.  
 
 ![Screenshot 2024-11-12 113154](https://github.com/user-attachments/assets/896439ee-ddad-4110-9919-3ac8e0399c8f)
 #
 
 3. I investigate the sender's IP Address on VirusTotal and confirm that is is flagged as malicious, originating from Ireland. This confirmation adds another layer of validation that the email is part of a broader malicious campaign.
 
-![deal watchdogs ip addr](https://github.com/user-attachments/assets/6a36b22b-2510-4d3f-ac01-99fb57287693)
+![deal watchdogs ip addr](https://github.com/user-attachments/assets/07f9c0dc-d174-4515-b488-a017a5e1e061)
 #
 
-4.
+4.  With conclusive evidence that this email is malicious, I proceeded to examine the link in a controlled environment to observe any potential actions it triggers for my own learning. Before clicking, I've taken a snapshot of my virtual machine to create a safe restore point, allowing me to revert to its original state if needed.
 
 ![Screenshot 2024-11-12 114702](https://github.com/user-attachments/assets/e03a6535-8e5f-466a-a286-24bad15e20f7)
+#
+
+5.  After I click into the malicious link, I am redirected THREE times to different articles written by "bloggers" reviewing the product I clicked into but I can't seem to click on the author's name to see what else they have reviewed. Which is strange because wouldn't a blogger have more than just 1 blog or review? I then tried to click into the 2939 reivews by other "purchasers" but could not click into that either. Overall, I was impressed by the length these phishing attackers went to to make these websites look legitimate.
+
 ![Screenshot 2024-11-12 115121](https://github.com/user-attachments/assets/cff786e9-249a-4f4a-af87-4ac2fa5f0161)
-![Screenshot 2024-11-12 115212](https://github.com/user-attachments/assets/e51be5ab-bc73-4a25-b3e4-6dcaaada0b80)
-![Screenshot 2024-11-12 115231](https://github.com/user-attachments/assets/c14fd12a-e091-4451-b557-6986fa87ec38)
-
-
 ![Screenshot 2024-11-12 115517](https://github.com/user-attachments/assets/dc2e26c4-21ce-4586-a557-e247a61f3bcc)
 ![Screenshot 2024-11-12 115606](https://github.com/user-attachments/assets/52f55d3f-b947-422a-b16c-e5071c347219)
-![Screenshot 2024-11-12 115911](https://github.com/user-attachments/assets/33e6996d-407e-4d5f-acea-5ec0d71e1dd3)
 
-
+6. Ultimately, when I clicked into several different products I realized they were just redirecting me multiple times to articles on how great the product is, given an obscene discount ranging from 50-80% off, and then to a spoofed website to "buy" the product but never actually redirected to Amazon to directly buy the product! 
+ 
 ![Screenshot 2024-11-12 131538](https://github.com/user-attachments/assets/19a066ad-a1d7-434d-8e19-7ec0e6a47d1a)
 ![Screenshot 2024-11-12 131721](https://github.com/user-attachments/assets/a4e1db51-6308-4670-b859-f8a09879fcfd)
+#
 
+7. After I bought all 10 products -which I have yet to receive any- I closed out all of the windows, quarantined the malicious email, and reverted my VM back to its original state.
 
 ![Screenshot 2024-11-12 131940](https://github.com/user-attachments/assets/6846f4af-d259-4f88-bc96-8b30135f14e8)
-
+#
 
 
