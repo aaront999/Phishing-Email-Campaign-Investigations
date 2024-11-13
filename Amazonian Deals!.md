@@ -3,12 +3,9 @@
 #### - On November 6th, 2024, I received a suspicious email from a company called 'Deal Watchdogs.' The email exhibited several phishing characteristics, including an unfamiliar sender domain, a poorly designed layout, blurry fonts, and addressing me by my email instead of my actual name.
 
 
-#
-#
-#
-## >*Currently work-in-progress on documentating this investigation*
-#
-#
+### <a href="https://docs.google.com/document/d/1brqaiAT-QYt1p6rPJLJyaEAWnq4QfOq5Ow9qErMYgv4/edit?tab=t.0#heading=h.jc6e3jt049tw" target="_blank">Incident Report:</a>
+
+https://docs.google.com/document/d/1brqaiAT-QYt1p6rPJLJyaEAWnq4QfOq5Ow9qErMYgv4/edit?tab=t.0#heading=h.jc6e3jt049tw
 #
 
 #### - Before I started my investigation, I made sure to check that my Virtual Machine is on a 'host-only' mode so that in the event there's a malicious payload from the link, it will be isolated. Doing this will prevent it from accessing my host network and further minimizing risk. 
@@ -60,4 +57,4 @@
 ![Screenshot 2024-11-12 131940](https://github.com/user-attachments/assets/6846f4af-d259-4f88-bc96-8b30135f14e8)
 #
 
-
+# <a href="https://docs.google.com/document/d/1brqaiAT-QYt1p6rPJLJyaEAWnq4QfOq5Ow9qErMYgv4/edit?tab=t.0#heading=h.jc6e3jt049tw" target="_blank">Incident Report</a>
