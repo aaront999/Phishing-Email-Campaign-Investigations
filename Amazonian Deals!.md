@@ -40,20 +40,20 @@ https://docs.google.com/document/d/1brqaiAT-QYt1p6rPJLJyaEAWnq4QfOq5Ow9qErMYgv4/
 ![Screenshot 2024-11-12 114702](https://github.com/user-attachments/assets/e03a6535-8e5f-466a-a286-24bad15e20f7)
 #
 
-5.  After I click into the malicious link, I am redirected THREE times to different articles written by "bloggers" reviewing the product I clicked into but I can't seem to click on the author's name to see what else they have reviewed. Which is strange because wouldn't a blogger have more than just 1 blog or review? I then tried to click into the 2939 reivews by other "purchasers" but could not click into that either. Overall, I was impressed by the length these phishing attackers went to to make these websites look legitimate.
+5.  After I click into the malicious link, I am redirected THREE times to different articles written by "bloggers" reviewing the product I clicked into but I can't seem to click on the author's name to see what else they have reviewed. Which is strange because wouldn't a blogger have more than just 1 blog or review? I then tried to click onto the 2939 reviews by other "purchasers" but could not click into that either. Overall, I was impressed by the length these phishing attackers went to to make these websites look legitimate because attackers will do this at an attempt to throw off browser based security measures and by having different domains- it makes it harder for pattern recognition algorithms to mark these sites as malicious. 
 
 ![Screenshot 2024-11-12 115121](https://github.com/user-attachments/assets/cff786e9-249a-4f4a-af87-4ac2fa5f0161)
 ![Screenshot 2024-11-12 115517](https://github.com/user-attachments/assets/dc2e26c4-21ce-4586-a557-e247a61f3bcc)
 ![Screenshot 2024-11-12 115606](https://github.com/user-attachments/assets/52f55d3f-b947-422a-b16c-e5071c347219)
 #
 
-6. Ultimately, I realized when clicking into several different products, the links would redirect me multiple times to different articles expressing how great the product is, given an obscene discount ranging from 50-80% off, and then finally to a spoofed website to "buy" the product but never actually sending me directly to Amazon to buy the product! 
+6. Ultimately, I realized when clicking into several different products, the links would redirect me multiple times to different articles expressing how great the product is, given an obscene discount ranging from 50-80% off, and then finally to a spoofed website to "buy" the product but never actually sending me directly to Amazon to buy the product! By doing this, the attackers are bypassing detection from email filters and anti-virus softwares by avoiding direct links to the malicious content. 
  
 ![Screenshot 2024-11-12 131538](https://github.com/user-attachments/assets/19a066ad-a1d7-434d-8e19-7ec0e6a47d1a)
 ![Screenshot 2024-11-12 131721](https://github.com/user-attachments/assets/a4e1db51-6308-4670-b859-f8a09879fcfd)
 #
 
-7. To conclude my investigation, I bought all 10 products, closed out all Windows tabs, quarantined the malicious email, and reverted my VM back to its original state.
+7. To conclude my investigation, I bought all 10 products, closed out all the Window's tabs, quarantined the malicious email, and reverted my VM back to its original state.
 
 ![Screenshot 2024-11-12 131940](https://github.com/user-attachments/assets/6846f4af-d259-4f88-bc96-8b30135f14e8)
 #
