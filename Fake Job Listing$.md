@@ -15,10 +15,14 @@ https://docs.google.com/document/d/1qcuVk0nxRIwV5G5QM67-85SDaLe_3rPxoiWKVDoMEzQ/
 
 2. I started by investigating the raw data to verify the DKIM (DomainKeys Identified Mail), SPF (Sender Policy Framework), and DMARC (Domain-based Message Authentication Reporting and Conformance) and noticed only the DKIM had passed but the SPF and DMARC are labeled as none/unknown. This is suspicious because although the DKIM had passed, it just means that the email had not been altered during transmission and that its digital signature matches the sender's domain. 
 - The SPF failing means that the email was not sent through an authenticated mail server. 
-- The DMARC verifies both DKIM and SPF as an extra layer of security, it failing means that the email did not align with the sender domain's policies. 
-- I checked the originating IP address on VirusTotal, which confirmed that it is malicious, traced back to the US.
+- The DMARC verifies both DKIM and SPF as an extra layer of security, it failing means that the DKIM and SPF did not align, which gave a failed response. 
+- Together, it could mean that this email is spoofed and that I should proceed with caution.
 
 ![2 1](https://github.com/user-attachments/assets/e2b8ef04-acd4-40e1-960d-6f6c14917952)
+#
+
+- I also checked the email sender's originating IP address on VirusTotal, which confirmed that it is malicious, traced back to the US.
+
 ![2 2](https://github.com/user-attachments/assets/38cb9ba4-6f22-45a6-8df5-fc5a786a9af6)
 #
 
