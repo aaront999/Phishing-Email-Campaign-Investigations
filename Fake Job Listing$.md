@@ -40,9 +40,9 @@ https://docs.google.com/document/d/1qcuVk0nxRIwV5G5QM67-85SDaLe_3rPxoiWKVDoMEzQ/
 ![5 2](https://github.com/user-attachments/assets/5732e096-7b4e-47fc-9ee7-8bb2c143bc08)
 #
 
-6. As a final step, I wanted to verify whether Viray Kiran was a real person representing AP Solutions. To my surprise, I found someone with the same name and job title, but they actually represent AP Federal. With this discovery, along with all the other evidence gathered, I can confidently conclude that this email is part of a phishing attempt designed to build trust and ultimately steal personal information if I were to engage with the attackers and submit any sensitive data.
+6. As a final step, I wanted to verify whether Viray Kiran was a real person representing AP Solutions. Upon further investigation, I found someone with the same name and job title, but this individual actually represents a legitimate company: AP Federal. This led me to believe that the attacker was attempting to impersonate the real Vijay Kiran. With this discovery, along with the other evidence gathered, I can confidently conclude that this email is part of a broader phishing campaign, designed to build trust and ultimately steal personal information if I were to engage with the attackers and submit any sensitive data.
 
-![6](https://github.com/user-attachments/assets/a9685efb-ee28-43e2-bf3a-3fdbc5b55ef8)
+![7](https://github.com/user-attachments/assets/57f7219b-b753-4a6b-b6cf-072c14bed991)
 #
 
 # <a href="https://docs.google.com/document/d/1qcuVk0nxRIwV5G5QM67-85SDaLe_3rPxoiWKVDoMEzQ/edit?tab=t.0#heading=h.tin35chbc89x" target="_blank">Incident Report</a>
