@@ -14,20 +14,22 @@
 https://docs.google.com/document/d/1qcuVk0nxRIwV5G5QM67-85SDaLe_3rPxoiWKVDoMEzQ/edit?tab=t.0#heading=h.tin35chbc89x
 #
 
-1. 
-
+1. Initially, I was excited, thinking a recruiter had gotten back to me. However, as I read through the email, my instincts kicked in, and something felt off about the job listing. The first thing I noticed was that the email was titled "Fwd: [message]," but there was no sign of a conversation thread, only the sender and me. This raised a red flag—if the email had been forwarded, I should have seen the full chain of conversation. I also realized I did not recall ever speaking with a Vijay Kiran, which prompted me to immediately dig deeper-for fun.
 
 ![1 1](https://github.com/user-attachments/assets/296a8064-4d7b-4304-a45f-d23615455680)
-![1](https://github.com/user-attachments/assets/e655a6f5-8c03-4dad-bb6f-b84d14c875b5)
+![1](https://github.com/user-attachments/assets/5ae09ac3-fb3f-4a88-8641-d217c2a03b4f)
 #
 
-2.
+2. I started by investigating the raw data to verify the DKIM (DomainKeys Identified Mail), SPF (Sender Policy Framework), and DMARC (Domain-based Message Authentication Reporting and Conformance) and noticed only the DKIM had passed but the SPF and DMARC are labeled as none/unknown. This is suspicious because although the DKIM had passed, it just means that the email had not been altered during transmission and that its digital signature matches the sender's domain. 
+- The SPF failing means that the email was not sent through an authenticated mail server. 
+- The DKIM verifies both DKIM and SPF as an extra layer of security, it failing means that the email did not align with the sender domain's policies. 
+- I checked the originating IP address on VirusTotal, which confirmed that it is malicious, traced back to the US.
 
 ![2 1](https://github.com/user-attachments/assets/e2b8ef04-acd4-40e1-960d-6f6c14917952)
 ![2 2](https://github.com/user-attachments/assets/38cb9ba4-6f22-45a6-8df5-fc5a786a9af6)
 #
 
-3.
+3. 
 
 ![3 1](https://github.com/user-attachments/assets/550d4811-e242-4c54-aa78-7a4d55f87201)
 ![3 2](https://github.com/user-attachments/assets/1a27e014-a8ea-4324-8538-c0fd2f05d0f3)
