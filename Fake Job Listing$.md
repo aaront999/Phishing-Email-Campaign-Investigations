@@ -28,7 +28,7 @@ https://docs.google.com/document/d/1qcuVk0nxRIwV5G5QM67-85SDaLe_3rPxoiWKVDoMEzQ/
 ![3 2](https://github.com/user-attachments/assets/1a27e014-a8ea-4324-8538-c0fd2f05d0f3)
 #
 
-4. I cross-referenced the address Mr. Kiran claimed for the business. It turns out that the address is actually an office building that hosts virtual office suites, which are commonly used by legitimate businesses. However, the suite in question is still listed as available for rent, raising doubts about the legitimacy of the business. 
+4. I cross-referenced the address Mr. Kiran claimed for the business. It turns out that the address is actually an office building that hosts virtual office suites, which can be commonly used by legitimate businesses. However, the suite in question is still listed as available for rent, raising doubts about the legitimacy of the business. 
 
 ![4 1](https://github.com/user-attachments/assets/f47e7e6d-4c2d-4085-8eca-3ccaebad37df)
 #
@@ -40,7 +40,9 @@ https://docs.google.com/document/d/1qcuVk0nxRIwV5G5QM67-85SDaLe_3rPxoiWKVDoMEzQ/
 ![5 2](https://github.com/user-attachments/assets/5732e096-7b4e-47fc-9ee7-8bb2c143bc08)
 #
 
-6. As a final step, I wanted to verify whether Viray Kiran was a real person representing AP Solutions. Upon further investigation, I found someone with the same name and job title, but this individual actually represents a legitimate company: AP Federal. This led me to believe that the attacker was attempting to impersonate the real Vijay Kiran. With this discovery, along with the other evidence gathered, I can confidently conclude that this email is part of a broader phishing campaign, designed to build trust and ultimately steal personal information if I were to engage with the attackers and submit any sensitive data.
+6. As a final step, I wanted to verify whether Viray Kiran was a real person representing AP Solutions. 
+- Upon further investigation, I found someone with the same name and job title, but this individual actually represents a legitimate company: AP Federal!! This led me to believe that the attacker was attempting to impersonate the real Vijay Kiran. 
+- With this discovery, along with the other evidence gathered, I can confidently conclude that this email is part of a broader phishing campaign, designed to build trust and ultimately steal personal information if I were to engage with the attackers and submit any sensitive data.
 
 ![7](https://github.com/user-attachments/assets/57f7219b-b753-4a6b-b6cf-072c14bed991)
 #
