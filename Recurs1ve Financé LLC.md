@@ -1,6 +1,6 @@
 # Phishing Email: 3 positions open at Recursive Financé LLC.
 
-#### - On April 22nd, 2025, I was reached out to by an HR Manager by the name of "William Rosen" representing "Recursive Finance LLC." The email seemed VERY legitimate until I investigated further...
+#### - On April 22nd, 2025, I was contacted by an HR Manager named “William Rosen,” claiming to represent a company called “Recursive Finance LLC.” At first glance, the email looked impressively legitimate — polished, professional, the kind you'd expect from a real financial firm. But something felt off... and once I started digging, the red flags came fast.
 
 ### <a href=""_blank">Incident Report:</a>
 
@@ -8,23 +8,31 @@
 #
 
 ## >>> Currently Work-in-Progress On Documentation For This Project <<<
+#
 
+1.
+<img width="918" alt="Screen Shot 2025-04-23 at 2 34 35 PM" src="https://github.com/user-attachments/assets/ec954fbe-c0d0-41ae-bc97-1b754bff9540" />
+<img width="914" alt="Screen Shot 2025-04-23 at 2 34 58 PM" src="https://github.com/user-attachments/assets/862c5316-f908-4622-bca6-fa400260e9a2" />
+<img width="912" alt="Screen Shot 2025-04-23 at 2 35 17 PM" src="https://github.com/user-attachments/assets/52423d67-929b-4521-89ee-bf4afa98a7fa" />
+<img width="912" alt="Screen Shot 2025-04-23 at 2 35 34 PM" src="https://github.com/user-attachments/assets/d05ceef7-69fa-4d3b-93f0-81c9cc332a1b" />
+<img width="909" alt="Screen Shot 2025-04-23 at 2 35 53 PM" src="https://github.com/user-attachments/assets/ac96609a-4c99-483f-901a-39fa6d7cb403" />
 
+#
+2.
+<img width="922" alt="Screen Shot 2025-04-23 at 2 39 32 PM" src="https://github.com/user-attachments/assets/6a9e8187-a927-4a78-b667-b60927254eb8" />
+<img width="1162" alt="Screen Shot 2025-04-23 at 2 41 33 PM" src="https://github.com/user-attachments/assets/3e518db1-9e5e-4a7c-972f-ae882e7f3758" />
+<img width="1430" alt="Screen Shot 2025-04-23 at 2 42 06 PM" src="https://github.com/user-attachments/assets/78b7cd83-69a3-4fe3-b154-c1c0b9f4c2c9" />
+<img width="974" alt="Screen Shot 2025-04-23 at 2 42 19 PM" src="https://github.com/user-attachments/assets/6f5d4154-76b4-41a8-9e2d-a9e5f3fd559e" />
+<img width="975" alt="Screen Shot 2025-04-23 at 2 42 35 PM" src="https://github.com/user-attachments/assets/c40baef5-e713-4b4c-9544-43e180e42092" />
 
+#
+3.
+<img width="1024" alt="Screen Shot 2025-04-23 at 2 43 54 PM" src="https://github.com/user-attachments/assets/2c45ffdc-5b8b-4b48-8c59-83f3f56e3fbd" />
+<img width="1050" alt="Screen Shot 2025-04-23 at 2 44 31 PM" src="https://github.com/user-attachments/assets/c21621bf-f620-4eb1-84b3-e3b4b435ee84" />
+<img width="1050" alt="Screen Shot 2025-04-23 at 2 44 53 PM" src="https://github.com/user-attachments/assets/dd8f4cb9-2976-4332-b262-0a98f1956145" />
 
-<img width="1027" alt="Screen Shot 2025-04-23 at 2 45 19 PM" src="https://github.com/user-attachments/assets/2e902792-d2a7-41bd-9602-22ef08c5b186" />
-<img width="1050" alt="Screen Shot 2025-04-23 at 2 44 53 PM" src="https://github.com/user-attachments/assets/8b4e6a66-739f-40b4-b5f4-8396cc4ce1c7" />
-<img width="1050" alt="Screen Shot 2025-04-23 at 2 44 31 PM" src="https://github.com/user-attachments/assets/a4414bce-fb37-4d21-b215-2d51889e8890" />
-<img width="1024" alt="Screen Shot 2025-04-23 at 2 43 54 PM" src="https://github.com/user-attachments/assets/5b618bb2-d09e-4bd7-aae1-5d57b21dd65d" />
-<img width="975" alt="Screen Shot 2025-04-23 at 2 42 35 PM" src="https://github.com/user-attachments/assets/7204b519-625c-419d-ab05-490b323dce3b" />
-<img width="974" alt="Screen Shot 2025-04-23 at 2 42 19 PM" src="https://github.com/user-attachments/assets/78fc9799-238c-434d-a7bc-c36ad879b5f9" />
-<img width="1430" alt="Screen Shot 2025-04-23 at 2 42 06 PM" src="https://github.com/user-attachments/assets/0cef5cdf-ebc4-441e-9343-206c000f33b9" />
-<img width="1162" alt="Screen Shot 2025-04-23 at 2 41 33 PM" src="https://github.com/user-attachments/assets/eea37541-a0e2-427e-be7d-16d4b8ae0ba3" />
-<img width="922" alt="Screen Shot 2025-04-23 at 2 39 32 PM" src="https://github.com/user-attachments/assets/9168aade-27fb-45ac-9865-056fdbbde18f" />
-<img width="909" alt="Screen Shot 2025-04-23 at 2 35 53 PM" src="https://github.com/user-attachments/assets/faef1fc8-a7e5-4a1d-b749-29f43f91ec61" />
-<img width="912" alt="Screen Shot 2025-04-23 at 2 35 34 PM" src="https://github.com/user-attachments/assets/9c3f27da-e5b7-43c6-8041-15bf25d5fbcc" />
-<img width="912" alt="Screen Shot 2025-04-23 at 2 35 17 PM" src="https://github.com/user-attachments/assets/3a22bb0d-6e5c-42fc-a7e2-24729297864d" />
-<img width="914" alt="Screen Shot 2025-04-23 at 2 34 58 PM" src="https://github.com/user-attachments/assets/fb13d049-e86f-4b3d-a737-a1315a3f2212" />
-<img width="918" alt="Screen Shot 2025-04-23 at 2 34 35 PM" src="https://github.com/user-attachments/assets/0f2a6390-f9c3-4c9d-bb74-ca72ecdee827" />
+#
+4.
+<img width="1027" alt="Screen Shot 2025-04-23 at 2 45 19 PM" src="https://github.com/user-attachments/assets/bcc958f6-4644-4322-81fb-b34a90e9b175" />
 
 
