@@ -1,6 +1,6 @@
 ## Phishing Email Campaign Investigations
 
-#### This repository will hold all of my write-ups on investigating Phishing emails that contain malicious links or attachments.
+#### This repository will hold all of my write-ups on investigating real Phishing emails that contain malicious links or attachments.
     - Incident reports will be linked in their respective .md files.
 
 #### Phishing attacks have been prevalent since the mid 1990's, and their attack vectors have only evolved and improved over time. For example, Vishing (Voice Phishing) and Smishing (SMS Phishing) has gained popularity in recent years, utilizing phone calls, texts, links, or voice messages to trick individuals into sharing sensitive information, often with the integration of AI. Phishing emails rely on social engineering and capitalize on human error to seek sensitive information or some form of monetary gain. Here are the most common signs to look for:
