@@ -33,7 +33,7 @@ These factors combined—especially the overly generous pay and the generic job 
 
   - The choice of Iceland for domain registration could suggest the attacker is leveraging a region with lax enforcement or anonymity-friendly policies.
 
-  - This mismatch between the IP and domain geography suggests a few possibilities:
+This mismatch between the IP and domain geography suggests a few possibilities:
 
   - The attacker may be using a VPN, proxy, or relay server to spoof location.
 
