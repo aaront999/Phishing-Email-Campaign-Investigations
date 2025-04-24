@@ -2,7 +2,7 @@
 
 #### - On April 22nd, 2025, I was contacted by an HR Manager named “William Rosen,” claiming to represent a company called “Recursive Finance LLC.” At first glance, the email looked impressively legitimate — polished, professional, the kind you'd expect from a real financial firm. But something felt off... and once I started digging, the red flags came fast.
 
-### <a href="https://docs.google.com/document/d/1tNiKY1832EJ5cECSSFa0h5fOxyQQV9gjawZd9fqd5E0/edit?usp=sharing"_blank">Incident Report:</a>
+### <a href="https://docs.google.com/document/d/1tNiKY1832EJ5cECSSFa0h5fOxyQQV9gjawZd9fqd5E0/edit?usp=sharing" target="_blank">Incident Report:</a>
 
 https://docs.google.com/document/d/1tNiKY1832EJ5cECSSFa0h5fOxyQQV9gjawZd9fqd5E0/edit?usp=sharing
 #
