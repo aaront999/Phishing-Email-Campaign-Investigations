@@ -49,7 +49,7 @@ This kind of behavior aligns with evasive phishing tactics designed to bypass ba
 3.
 <img width="1024" alt="Screen Shot 2025-04-23 at 2 43 54 PM" src="https://github.com/user-attachments/assets/2c45ffdc-5b8b-4b48-8c59-83f3f56e3fbd" />
 <img width="1050" alt="Screen Shot 2025-04-23 at 2 44 31 PM" src="https://github.com/user-attachments/assets/c21621bf-f620-4eb1-84b3-e3b4b435ee84" />
-<img width="1050" alt="Screen Shot 2025-04-23 at 2 44 53 PM" src="https://github.com/user-attachments/assets/dd8f4cb9-2976-4332-b262-0a98f1956145" />
+<img width="1430" alt="Screen Shot 2025-04-23 at 2 42 06 PM" src="https://github.com/user-attachments/assets/581aa4e7-40e0-49a2-b9f5-519f0a48a018" />
 
 #
 4.
