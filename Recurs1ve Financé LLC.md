@@ -46,13 +46,19 @@ This kind of behavior aligns with evasive phishing tactics designed to bypass ba
 <img width="975" alt="Screen Shot 2025-04-23 at 2 42 35 PM" src="https://github.com/user-attachments/assets/c40baef5-e713-4b4c-9544-43e180e42092" />
 
 #
-3.
+3. After confirming this was a phishing attempt designed to extract sensitive personal information, I decided to dig deeper into the identity of the supposed sender, “William Rosen,” and the legitimacy of the company, Recursive Finance.
+
+A series of Google searches turned up no trace of Recursive Finance—no official website, business listing, or social media presence. Even LinkedIn had no relevant matches. The closest I found was a “Will Rosenburg,” a software engineer, not an HR manager.
+
 <img width="1024" alt="Screen Shot 2025-04-23 at 2 43 54 PM" src="https://github.com/user-attachments/assets/2c45ffdc-5b8b-4b48-8c59-83f3f56e3fbd" />
 <img width="1050" alt="Screen Shot 2025-04-23 at 2 44 31 PM" src="https://github.com/user-attachments/assets/c21621bf-f620-4eb1-84b3-e3b4b435ee84" />
 <img width="1430" alt="Screen Shot 2025-04-23 at 2 42 06 PM" src="https://github.com/user-attachments/assets/581aa4e7-40e0-49a2-b9f5-519f0a48a018" />
 
 #
-4.
+4. I also cross-referenced the address listed in the email. Instead of a commercial business location, it mapped to a residential home, which would be highly unusual for any legitimate financial firm.
+
+These red flags further confirmed that the email was part of a well-disguised phishing campaign, using fake corporate identities and social engineering tactics to appear trustworthy.
+
 <img width="1027" alt="Screen Shot 2025-04-23 at 2 45 19 PM" src="https://github.com/user-attachments/assets/bcc958f6-4644-4322-81fb-b34a90e9b175" />
 
 
