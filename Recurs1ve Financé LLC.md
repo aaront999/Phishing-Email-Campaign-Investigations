@@ -24,9 +24,10 @@ These factors combined—especially the overly generous pay and the generic job 
 <img width="914" alt="Screen Shot 2025-04-23 at 2 34 58 PM" src="https://github.com/user-attachments/assets/862c5316-f908-4622-bca6-fa400260e9a2" />
 <img width="912" alt="Screen Shot 2025-04-23 at 2 35 17 PM" src="https://github.com/user-attachments/assets/52423d67-929b-4521-89ee-bf4afa98a7fa" />
 <img width="912" alt="Screen Shot 2025-04-23 at 2 35 34 PM" src="https://github.com/user-attachments/assets/d05ceef7-69fa-4d3b-93f0-81c9cc332a1b" />
-<img width="909" alt="Screen Shot 2025-04-23 at 2 35 53 PM" src="https://github.com/user-attachments/assets/ac96609a-4c99-483f-901a-39fa6d7cb403" />
+<img width="906" alt="Screen Shot 2025-04-24 at 8 38 55 AM" src="https://github.com/user-attachments/assets/83440873-97c9-4955-b566-267380577834" />
 
 #
+
 2. While analyzing the raw header of a suspicious email, I noticed that it passed DKIM, SPF, and DMARC—which usually indicates authenticity. However, digging deeper revealed inconsistencies:
 
   - Originating IP Address traced back to France, but the domain was registered in Iceland, and very recently—in 2025. A domain that new raises immediate suspicion unless it’s a clearly verifiable new company.
@@ -41,24 +42,27 @@ This kind of behavior aligns with evasive phishing tactics designed to bypass ba
 
 <img width="922" alt="Screen Shot 2025-04-23 at 2 39 32 PM" src="https://github.com/user-attachments/assets/6a9e8187-a927-4a78-b667-b60927254eb8" />
 <img width="1162" alt="Screen Shot 2025-04-23 at 2 41 33 PM" src="https://github.com/user-attachments/assets/3e518db1-9e5e-4a7c-972f-ae882e7f3758" />
-<img width="1430" alt="Screen Shot 2025-04-23 at 2 42 06 PM" src="https://github.com/user-attachments/assets/78b7cd83-69a3-4fe3-b154-c1c0b9f4c2c9" />
+<img width="1430" alt="Screen Shot 2025-04-23 at 2 42 06 PM" src="https://github.com/user-attachments/assets/895a91bf-c550-4d72-b768-5ad920d7bd1e" />
 <img width="974" alt="Screen Shot 2025-04-23 at 2 42 19 PM" src="https://github.com/user-attachments/assets/6f5d4154-76b4-41a8-9e2d-a9e5f3fd559e" />
 <img width="975" alt="Screen Shot 2025-04-23 at 2 42 35 PM" src="https://github.com/user-attachments/assets/c40baef5-e713-4b4c-9544-43e180e42092" />
 
 #
+
 3. After confirming this was a phishing attempt designed to extract sensitive personal information, I decided to dig deeper into the identity of the supposed sender, “William Rosen,” and the legitimacy of the company, Recursive Finance.
 
-A series of Google searches turned up no trace of Recursive Finance—no official website, business listing, or social media presence. Even LinkedIn had no relevant matches. The closest I found was a “Will Rosenburg,” a software engineer, not an HR manager.
+A series of Google searches turned up no trace of Recursive Finance—no official website, business listing, or social media presence. Even LinkedIn had no relevant matches. The closest I found was a “Will Rosenbaum,” an assistant professor, not an HR manager.
 
 <img width="1024" alt="Screen Shot 2025-04-23 at 2 43 54 PM" src="https://github.com/user-attachments/assets/2c45ffdc-5b8b-4b48-8c59-83f3f56e3fbd" />
 <img width="1050" alt="Screen Shot 2025-04-23 at 2 44 31 PM" src="https://github.com/user-attachments/assets/c21621bf-f620-4eb1-84b3-e3b4b435ee84" />
-<img width="1430" alt="Screen Shot 2025-04-23 at 2 42 06 PM" src="https://github.com/user-attachments/assets/581aa4e7-40e0-49a2-b9f5-519f0a48a018" />
+<img width="1050" alt="Screen Shot 2025-04-23 at 2 44 53 PM" src="https://github.com/user-attachments/assets/f2fc6236-0cf0-491e-af9f-89a6cd31e4d1" />
 
 #
+
 4. I also cross-referenced the address listed in the email. Instead of a commercial business location, it mapped to a residential home, which would be highly unusual for any legitimate financial firm.
 
 These red flags further confirmed that the email was part of a well-disguised phishing campaign, using fake corporate identities and social engineering tactics to appear trustworthy.
 
+<img width="909" alt="Screen Shot 2025-04-23 at 2 35 53 PM" src="https://github.com/user-attachments/assets/d7c09807-5520-42d4-8913-7b1f964ebfaf" />
 <img width="1027" alt="Screen Shot 2025-04-23 at 2 45 19 PM" src="https://github.com/user-attachments/assets/bcc958f6-4644-4322-81fb-b34a90e9b175" />
 
 
