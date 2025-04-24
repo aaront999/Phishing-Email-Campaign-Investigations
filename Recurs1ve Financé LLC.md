@@ -7,8 +7,6 @@
 https://docs.google.com/document/d/1tNiKY1832EJ5cECSSFa0h5fOxyQQV9gjawZd9fqd5E0/edit?usp=sharing
 #
 
-## >>> Currently Work-in-Progress On Documentation For This Project <<<
-#
 
 1. I started by examining the email header and content. At first glance, it looked extremely legitimate—well-formatted, professional language, and structured like a real recruiting email. But a few things raised red flags:
 
